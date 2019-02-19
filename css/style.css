@@ -38,7 +38,38 @@ p {
 li {
   font-size: 14px;    }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+    font-family: "Rock Salt"; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+
+h5 {
+  color: #000;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin: 0 0 10px 0; }
+
+
+h7 {
+    font-size:25px;
+    font-family: 'Great Vibes';
+    font-style: sans-serif;
+    color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+
+h8 {
+    font: 20px 'Leckerli One', Helvetica, sans-serif;
+    color: #000;
+    text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2);
+}
+
+h2, h3, h4, h6 {
   color: #000;
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 400;
@@ -735,7 +766,7 @@ body.offcanvas {
       border-color: #4054b2 transparent transparent transparent; }
 
 .progress-wrap h3 {
-  font-size: 16px;
+  font-size: 13px;
   font-family: "Quicksand", Arial, sans-serif;
   margin-bottom: 10px; }
 
