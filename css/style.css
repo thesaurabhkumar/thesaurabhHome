@@ -57,7 +57,7 @@ h5 {
 
 h7 {
     font-size:25px;
-    font-family: 'Great Vibes';
+    font-family: 'Rokkitt';
     font-style: sans-serif;
     color: #fff;
     text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
@@ -417,7 +417,7 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 1em;
+  padding-top: 2em;
   padding-bottom: 1em;
   clear: both;
   width: 100%;
@@ -653,7 +653,7 @@ body.offcanvas {
   font-size: 16px; }
 
 .services {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   padding: 1.5em;
   -webkit-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
   -moz-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
@@ -769,8 +769,9 @@ body.offcanvas {
 
 .progress-wrap h3 {
   font-size: 13px;
+    font-weight: bold;
   font-family: "Quicksand", Arial, sans-serif;
-  margin-bottom: 10px; }
+  margin-bottom: 5px; }
 
 .progress {
   height: 6px;
