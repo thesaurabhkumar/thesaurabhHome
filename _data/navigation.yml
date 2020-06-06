@@ -1,0 +1,65 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Me
+  url: "/about-me/"
+  side: left
+
+- title: "Technical"
+  url: "/technical/"
+  side: left
+  dropdown:
+  - title: "C/C++"
+    url: "/technical/c-programming"
+  - title: "Algorithms"
+    url: "/technical/algorithms"
+  - title: "Data Structures"
+    url: "/technical/data-structures"
+  - title: "System Design"
+    url: "/technical/system-design/"
+  - title: "Post-Right-Sidebar"
+    url: "/technical/design-patterns/"
+  - title: "Page Full-Width"
+    url: "/technical/fun-facts/"
+
+- title: "Travel Diaries"
+  url: "/travel/"
+  side: left
+  dropdown:
+  - title: "Travel Guide"
+    url: "/travel/guide/"
+  - title: "United States"
+    url: "/travel/usa/"
+  - title: "India Travel"
+    url: "/travel/india/"
+  - title: "Nepal"
+    url: "/travel/nepal"
+
+- title: Lifestyle
+  url: "/lifestyle/"
+  side: left
+  dropdown:
+  - title: "Cooking"
+    url: "/lifestyle/cooking/"
+  - title: "Fitness"
+    url: "/lifestyle/fitness/"
+  - title: "Music"
+    url: "/lifestyle/music/"
+  - title: "Fun Ideas"
+    url: "/lifestyle/fun-ideas"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
