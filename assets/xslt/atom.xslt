@@ -1,9 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-	<meta charset="utf-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+<xsl:output method="html" encoding="utf-8" />
+<xsl:template match="/atom:feed">
+	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
+	<html>
+	<head>
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Saurabh Kumar</title>
+	<title>Atom Feed (Styled)</title>
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
@@ -26,20 +31,20 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="content">
 	
 	
 	
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/index.html">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Saurabh Kumar">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="http://localhost:4000/index.html">
+	<meta property="og:title" content="Atom Feed (Styled)">
+	<meta property="og:description" content="content">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Saurabh Kumar">
@@ -52,8 +57,8 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="saurabh">
 	<meta name="twitter:creator" content="saurabh">
-	<meta name="twitter:title" content="Saurabh Kumar">
-	<meta name="twitter:description" content="">
+	<meta name="twitter:title" content="Atom Feed (Styled)">
+	<meta name="twitter:description" content="content">
 	
 	
 
@@ -91,10 +96,11 @@
 
 	
 
-</head>
-<body id="top-of-page" class="frontpage">
-	
-	
+		]]></xsl:text>
+	</head>
+	<body id="top-of-page">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
@@ -201,7 +207,7 @@
 
             
             
-              <li class="active"><a  href="http://localhost:4000/">Home</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -400,14 +406,14 @@
   </nav>
 </div><!-- /#navigation -->
 
-	
+		
 
-	
-
-<div id="masthead-with-text" style=" ">
+<div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<div class="masthead-title">Saurabh Kumar</div>
+			<a id="logo" href="http://localhost:4000/" title="Saurabh Kumar – Software Engineer | Leader">
+				<img src="http://localhost:4000/assets/img/main.png" alt="Saurabh Kumar – Software Engineer | Leader">
+			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
@@ -419,115 +425,57 @@
 
 
 
+		
 
 
-	<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
+<div class="alert-box warning text-center"><p>This <a href="https://en.wikipedia.org/wiki/RSS" target="_blank">Atom feed</a> is meant to be used by <a href="https://en.wikipedia.org/wiki/Template:Aggregators" target="_blank">RSS reader applications and websites</a>.</p>
+</div>
 
 
 
-<div class="row t60">
-	
-
-	
-
-	
-</div><!-- /.row -->
-
-
-
-
-
-
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius success" href="http://localhost:4000/blog/">Check out my recent posts ›</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-
-
-
-
-
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            
-            
-            <p>
-                <a href="http://localhost:4000/design/mediaelement_js/" title="Play Aud &amp; Video with media&shy;element.js"><img width="970" src="https:www.thesaurabh.com/images/mediaplayer_js-home.jpg" alt=""></a>
-            </p>
-
-            
-            <p class="text-right caption">
-                <a href="https://blaz.photography/">Photo by Corey Blaz</a>
-            </p>
-            
-            
-            
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-    <div class="row">
-        <div class="medium-6 columns">
-            
-            <p class="subheadline">Video & Music Player</p>
-            <h2><a href="http://localhost:4000/design/mediaelement_js/">Play Aud & Video with media&shy;element.js</a></h2>
-            <p>
-                Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of mediaelement.js. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.
-                <a href="http://localhost:4000/design/mediaelement_js/" title="Read Play Aud &amp; Video with media&shy;element.js"><strong>Read More&nbsp;›</strong></a>
-            </p>
-            
-        </div><!-- /.medium-5.columns -->
-
-
-        <div class="medium-6 columns">
-            <p><strong>More Articles</strong></p>
-            
-
-
-
-
-
-<ul class="side-nav">
-
-  
-
-    
-      <li><a href="http://localhost:4000/design/typography/typography/">Reading Experience &middot; <strong>Wonderful Typography</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/comments/">Discussion &middot; <strong>Now with Comments!</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/no-header/">Headers With Style &middot; <strong>No Header</strong></a></li>
-    
-      <li class="text-right"><a href="http://localhost:4000/blog/archive/"><strong>More ›</strong></a></li>
-
-
-  
+		]]></xsl:text>
+		<header class="t30 row">
+	<p class="subheadline"><xsl:value-of select="atom:subtitle" disable-output-escaping="yes" /></p>
+	<h1>
+		<xsl:element name="a">
+			<xsl:attribute name="href">
+				<xsl:value-of select="atom:id" />
+			</xsl:attribute>
+			<xsl:value-of select="atom:title" />
+		</xsl:element>
+	</h1>
+</header>
+<ul class="accordion row" data-accordion="">
+	<xsl:for-each select="atom:entry">
+		<li class="accordion-navigation">
+			<xsl:variable name="slug-id">
+				<xsl:call-template name="slugify">
+					<xsl:with-param name="text" select="atom:id" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:element name="a">
+				<xsl:attribute name="href"><xsl:value-of select="concat('#', $slug-id)"/></xsl:attribute>
+				<xsl:value-of select="atom:title"/>
+				<br/>
+				<small><xsl:value-of select="atom:updated"/></small>
+			</xsl:element>
+			<xsl:element name="div">
+				<xsl:attribute name="id"><xsl:value-of select="$slug-id"/></xsl:attribute>
+				<xsl:attribute name="class">content</xsl:attribute>
+				<h1>
+					<xsl:element name="a">
+						<xsl:attribute name="href"><xsl:value-of select="atom:id"/></xsl:attribute>
+						<xsl:value-of select="atom:title"/>
+					</xsl:element>
+				</h1>
+				<xsl:value-of select="atom:content" disable-output-escaping="yes" />
+			</xsl:element>
+		</li>
+	</xsl:for-each>
 </ul>
 
-
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
-
-
-
-
-
-<div class="row">
-    
-
-</div><!-- /.row -->
-
-
-	
-	    <div id="up-to-top" class="row">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		    <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
         <a class="iconfont" href="#top-of-page">&#xf108;</a>
       </div><!-- /.small-12.columns -->
@@ -644,19 +592,13 @@
       </div><!-- /#subfooter -->
     </footer>
 
-	
-
-	
+		
 
 
 <script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
-<script>
-    $("#masthead").backstretch("https:www.thesaurabh.com/images/pages/home/background.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("https:www.thesaurabh.com/images/pages/home/background.jpg", {fade: 700});
-</script>
 
 
 
@@ -668,7 +610,18 @@
 
 
 
-
-</body>
-</html>
-
+		]]></xsl:text>
+	</body>
+	</html>
+</xsl:template>
+<xsl:template name="slugify">
+	<xsl:param name="text" select="''" />
+	<xsl:variable name="dodgyChars" select="' ,.#_-!?*:;=+|&amp;/\\'" />
+	<xsl:variable name="replacementChar" select="'-----------------'" />
+	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	<xsl:variable name="lowercased"><xsl:value-of select="translate( $text, $uppercase, $lowercase )" /></xsl:variable>
+	<xsl:variable name="escaped"><xsl:value-of select="translate( $lowercased, $dodgyChars, $replacementChar )" /></xsl:variable>
+	<xsl:value-of select="$escaped" />
+</xsl:template>
+</xsl:stylesheet>

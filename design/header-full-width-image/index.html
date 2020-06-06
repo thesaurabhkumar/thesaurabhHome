@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Saurabh Kumar</title>
+	<title>Header with a Full-Width-Image</title>
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
@@ -26,20 +26,20 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header with a full-width-image.">
 	
 	
 	
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/index.html">
+	<link rel="canonical" href="http://localhost:4000/design/header-full-width-image/">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Saurabh Kumar">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="http://localhost:4000/index.html">
+	<meta property="og:title" content="Header with a Full-Width-Image">
+	<meta property="og:description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header with a full-width-image.">
+	<meta property="og:url" content="http://localhost:4000/design/header-full-width-image/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Saurabh Kumar">
@@ -52,8 +52,8 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="saurabh">
 	<meta name="twitter:creator" content="saurabh">
-	<meta name="twitter:title" content="Saurabh Kumar">
-	<meta name="twitter:description" content="">
+	<meta name="twitter:title" content="Header with a Full-Width-Image">
+	<meta name="twitter:description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header with a full-width-image.">
 	
 	
 
@@ -92,7 +92,7 @@
 	
 
 </head>
-<body id="top-of-page" class="frontpage">
+<body id="top-of-page" class="post">
 	
 	
 <div id="navigation" class="sticky">
@@ -201,7 +201,7 @@
 
             
             
-              <li class="active"><a  href="http://localhost:4000/">Home</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -404,10 +404,11 @@
 
 	
 
-<div id="masthead-with-text" style=" ">
+<div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			<div class="masthead-title">Saurabh Kumar</div>
+
+			
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
@@ -415,39 +416,9 @@
 
 
 
-
-
-
-
-
-
-	<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
-
-
-
-<div class="row t60">
-	
-
-	
-
-	
-</div><!-- /.row -->
-
-
-
-
-
-
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius success" href="http://localhost:4000/blog/">Check out my recent posts ›</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+<div class="masthead-caption">
+	<a href="https://unsplash.com/">This is a caption for the header image with link</a>
+</div>
 
 
 
@@ -455,74 +426,109 @@
 
 
 
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            
-            
-            <p>
-                <a href="http://localhost:4000/design/mediaelement_js/" title="Play Aud &amp; Video with media&shy;element.js"><img width="970" src="https:www.thesaurabh.com/images/mediaplayer_js-home.jpg" alt=""></a>
-            </p>
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
 
-            
-            <p class="text-right caption">
-                <a href="https://blaz.photography/">Photo by Corey Blaz</a>
-            </p>
-            
-            
-            
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+				<div itemprop="name">
+					<p class="subheadline">Headers With Style</p>
+					<h1>Header with a Full-Width-Image</h1>
+				</div>
+			</header>
 
 
-    <div class="row">
-        <div class="medium-6 columns">
-            
-            <p class="subheadline">Video & Music Player</p>
-            <h2><a href="http://localhost:4000/design/mediaelement_js/">Play Aud & Video with media&shy;element.js</a></h2>
-            <p>
-                Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of mediaelement.js. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.
-                <a href="http://localhost:4000/design/mediaelement_js/" title="Read Play Aud &amp; Video with media&shy;element.js"><strong>Read More&nbsp;›</strong></a>
-            </p>
-            
-        </div><!-- /.medium-5.columns -->
+			
+			<p class="teaser" itemprop="description">
+				Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>.
+			</p>
+			
 
+			<div itemprop="articleSection">
+			<p>It’s so easy to do. Just define in front matter your image.
+<!--more--></p>
 
-        <div class="medium-6 columns">
-            <p><strong>More Articles</strong></p>
-            
+<h2 id="front-matter-code">Front Matter Code</h2>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header:
+    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+</code></pre></div></div>
 
-
-
+<h3 class="t60" id="all-header-styles">All Header-Styles</h3>
 
 <ul class="side-nav">
 
   
 
     
-      <li><a href="http://localhost:4000/design/typography/typography/">Reading Experience &middot; <strong>Wonderful Typography</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/comments/">Discussion &middot; <strong>Now with Comments!</strong></a></li>
-    
       <li><a href="http://localhost:4000/design/no-header/">Headers With Style &middot; <strong>No Header</strong></a></li>
     
-      <li class="text-right"><a href="http://localhost:4000/blog/archive/"><strong>More ›</strong></a></li>
-
+      <li><a href="http://localhost:4000/design/no-header-but-image/">Headers With Style &middot; <strong>No Header but Article Image</strong></a></li>
+    
+      <li><a href="http://localhost:4000/design/header-with-text/">Headers With Style &middot; <strong>Header With Text</strong></a></li>
+    
+      <li><a href="http://localhost:4000/design/header-logo-only/">Headers With Style &middot; <strong>Header With Logo Only</strong></a></li>
+    
+      <li><a href="http://localhost:4000/design/header-image-color/">Headers With Style &middot; <strong>Header Image With Background Color</strong></a></li>
+    
+      <li><a href="http://localhost:4000/design/header-full-width-image/">Headers With Style &middot; <strong>Header with a Full-Width-Image</strong></a></li>
+    
+      <li><a href="http://localhost:4000/design/header-image-pattern/">Headers With Style &middot; <strong>Header Image With Pattern</strong></a></li>
+    
 
   
 </ul>
 
 
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
+			</div>
+
+			
+						<div id="page-meta" class="t30">
+				<p>
+					<!-- Look the author details up from the site config. -->
+					
+					<!-- Output author details if some exist. -->
+					
+					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="http://www.thesaurabh.com/" target="_blank"> Saurabh Kumar</a></span>
+				</span>
+				
+
+				
+				<time class="icon-calendar pr20" datetime="2014-10-09T00:00:00-05:00" itemprop="datePublished"> 2014-10-09</time>
+				
+
+				<span class="icon-archive pr20"> DESIGN</span>
+				<br />
+				<span class="pr20"><span class="icon-price-tag pr10"> design</span> <span class="icon-price-tag pr10"> background color</span> <span class="icon-price-tag pr10"> header</span> </span>
+			</p>
+
+			
+			<div id="post-nav" class="row">
+				
+				<div class="small-5 columns"><a class="button small radius prev" href="http://localhost:4000/design/header-image-pattern/">&laquo; Header Image With Pattern</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-2 columns text-center"><a class="radius button small" href="http://localhost:4000/blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/design/header-image-color/">Header Image With Background Color &raquo;</a></div><!-- /.small-4.columns -->
+				
+			</div>
+			
+			</div><!--  /.page-meta -->
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
 
 
+	
 
 
-
-<div class="row">
-    
-
+	
 </div><!-- /.row -->
 
 
@@ -654,8 +660,8 @@
 
 
 <script>
-    $("#masthead").backstretch("https:www.thesaurabh.com/images/pages/home/background.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("https:www.thesaurabh.com/images/pages/home/background.jpg", {fade: 700});
+    $("#masthead").backstretch("https:www.thesaurabh.com/images/unsplash_brooklyn-bridge_header.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https:www.thesaurabh.com/images/unsplash_brooklyn-bridge_header.jpg", {fade: 700});
 </script>
 
 
