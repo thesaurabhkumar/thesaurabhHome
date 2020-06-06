@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/thesaurabhHome/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/thesaurabhHome/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/thesaurabhHome/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="content">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/thesaurabhHome/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Saurabh Kumar">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/thesaurabhHome/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/thesaurabhHome/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/thesaurabhHome/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/thesaurabhHome/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/thesaurabhHome/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Saurabh Kumar</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/thesaurabhHome" class="icon-tree"> Saurabh Kumar</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -172,7 +172,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/search/">Search</a></li>
+              <li><a  href="http://localhost:4000/thesaurabhHome/search/">Search</a></li>
 
             
             
@@ -188,7 +188,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000/thesaurabhHome/contact/">Contact</a></li>
 
             
             
@@ -207,7 +207,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Home</a></li>
+              <li><a  href="http://localhost:4000/thesaurabhHome/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -222,7 +222,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/about-me/">About Me</a></li>
+              <li><a  href="http://localhost:4000/thesaurabhHome/about-me/">About Me</a></li>
               <li class="divider"></li>
 
             
@@ -239,39 +239,39 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/technical/">Technical</a>
+                <a  href="http://localhost:4000/thesaurabhHome/technical/">Technical</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/c-programming">C/C++</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/c-programming">C/C++</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/algorithms">Algorithms</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/algorithms">Algorithms</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/data-structures">Data Structures</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/data-structures">Data Structures</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/system-design/">System Design</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/system-design/">System Design</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/design-patterns/">Post-Right-Sidebar</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/design-patterns/">Post-Right-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/technical/fun-facts/">Page Full-Width</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/technical/fun-facts/">Page Full-Width</a></li>
                     
                   </ul>
 
@@ -290,29 +290,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/travel/">Travel Diaries</a>
+                <a  href="http://localhost:4000/thesaurabhHome/travel/">Travel Diaries</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/travel/guide/">Travel Guide</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/travel/guide/">Travel Guide</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/travel/usa/">United States</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/travel/usa/">United States</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/travel/india/">India Travel</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/travel/india/">India Travel</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/travel/nepal">Nepal</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/travel/nepal">Nepal</a></li>
                     
                   </ul>
 
@@ -331,29 +331,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/lifestyle/">Lifestyle</a>
+                <a  href="http://localhost:4000/thesaurabhHome/lifestyle/">Lifestyle</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/lifestyle/cooking/">Cooking</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/lifestyle/cooking/">Cooking</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/lifestyle/fitness/">Fitness</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/lifestyle/fitness/">Fitness</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/lifestyle/music/">Music</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/lifestyle/music/">Music</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/lifestyle/fun-ideas">Fun Ideas</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/lifestyle/fun-ideas">Fun Ideas</a></li>
                     
                   </ul>
 
@@ -372,14 +372,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">Blog</a>
+                <a  href="http://localhost:4000/thesaurabhHome/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000/thesaurabhHome/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -411,8 +411,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Saurabh Kumar – Software Engineer | Leader">
-				<img src="http://localhost:4000/assets/img/main.png" alt="Saurabh Kumar – Software Engineer | Leader">
+			<a id="logo" href="http://localhost:4000/thesaurabhHome/" title="Saurabh Kumar – Software Engineer | Leader">
+				<img src="http://localhost:4000/thesaurabhHome/assets/img/main.png" alt="Saurabh Kumar – Software Engineer | Leader">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -490,7 +490,7 @@
 
             <p class="shadow-black">
               This is my primary blog. I share articles related to my professional and leisure activities.
-              <a href="http://localhost:4000/about-me/">More ›</a>
+              <a href="http://localhost:4000/thesaurabhHome/about-me/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -514,27 +514,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000"  title=""></a>
+                    <a href="http://localhost:4000/thesaurabhHome"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/thesaurabhHome/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/thesaurabhHome/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/thesaurabhHome/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/thesaurabhHome/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -554,7 +554,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000"  title=""></a>
+                  <a href="http://localhost:4000/thesaurabhHome"  title=""></a>
                 </li>
             
               
@@ -595,7 +595,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/thesaurabhHome/assets/js/javascript.min.js"></script>
 
 
 
