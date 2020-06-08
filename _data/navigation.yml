@@ -18,20 +18,16 @@
     url: "/technical/data-structures"
   - title: "System Design"
     url: "/technical/system-design/"
-  - title: "Post-Right-Sidebar"
-    url: "/technical/design-patterns/"
-  - title: "Page Full-Width"
-    url: "/technical/fun-facts/"
 
 - title: "Travel Diaries"
   url: "/travel/"
   side: left
   dropdown:
   - title: "Travel Guide"
-    url: "/travel/guide/"
+    url: "/travel/travel-guide/"
   - title: "United States"
-    url: "/travel/usa/"
-  - title: "India Travel"
+    url: "/travel/united-states/"
+  - title: "India"
     url: "/travel/india/"
   - title: "Nepal"
     url: "/travel/nepal"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Hello ..."
 subheadline: "Saurabh Kumar"
@@ -9,11 +9,26 @@ header:
 permalink: "/about-me/"
 ---
 
-<h2> Current Role </h2>
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+
+### Current Role
 Compiler Developer @ Ericsson with focus on supporting the development & extension of LLVM-Clang infrastructure and development of static analysis tools using LLVM libraries and tools.
-<h2>  Background </h2>
+
+### Background
 Previous experience includes working on EDA tool compilers and debuggers. Master’s in Computer Science with knowledge & experience in Systems Software, Parallel & Distributed Systems and Cloud Computing in top multinational product companies. Possess strong Computer Science fundamentals including Data Structures, Algorithms, Object Oriented Programming & System Design concepts.
-<h2>  Introduction </h2>
+
+### Introduction
 Hi, My name is Saurabh Kumar, currently working on Compiler Development @ Ericsson. I recently finished my Master's in Computer Science from Texas A&M University. Prior to this, I worked for 4.5 years as Software Developer in leading multinational product companies where I was responsible for development of an entire product as Lead Developer due my technical and leadership prowess. I have an overall professional work experience of 4.5 years in Software Design & Development. During my tenure, I worked on highly complex software using state of the art technologies, best programming practices, design patterns and software development methodologies. I have an innate passion for research and constantly thrive to innovate and solve problems efficiently.  Before that, I cleared Joint Entrance Examination and was fortunate to get admission into an IIT (Indian Institute of Technology) to study Computer Science where I earned a Bachelor's degree in Computer Science & Engineering.
 
 During my Masters, I served as a Teaching Assistant for the Department of Computer Science for the past 2 semesters where I taught C++ to undergraduate students. I was the only Master's student to be offered this position twice consecutively due to my excellent performance. I also developed an Autograding software to grade students programming assignments automatically which helped in providing prompt feedback and grades to the students and reduced the manual grading overhead on instructors.
