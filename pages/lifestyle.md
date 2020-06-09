@@ -1,8 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Posts"
-subheadline: "My Lifestyle"
+title: "My Lifestyle"
+subheadline: "Blog Posts"
+sidebar: right
+comments: true
+breadcrumb: true
 header:
    image_fullwidth: "header_unsplash_leaf.jpg"
 permalink: "/lifestyle/"
@@ -10,6 +13,6 @@ breadcrumb: true
 ---
 <ul>
     {% for post in site.categories.lifestyle %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{post.subheadline}}</a></li>
+        {% include _page_entries.html %}
     {% endfor %}
 </ul>

@@ -1,14 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "Posts"
-subheadline: "My Music"
+title: "My Music"
+subheadline: "Blog Posts"
+sidebar: right
+comments: true
+breadcrumb: true
 header:
    image_fullwidth: "posts/lifestyle/music/chord-guitar-header.jpg"
 permalink: "/lifestyle/music/"
 ---
 <ul>
     {% for post in site.categories.music %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{post.subheadline}}</a></li>
+        {% include _page_entries.html %}
     {% endfor %}
 </ul>

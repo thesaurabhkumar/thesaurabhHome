@@ -1,14 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "Discussion Topics"
-subheadline: "Technical Posts"
+title: "Technical Posts"
+subheadline: "Discussion Topics"
+sidebar: right
+comments: true
+breadcrumb: true
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/technical/"
 ---
 <ul>
     {% for post in site.categories.technical %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% include _page_entries.html %}
     {% endfor %}
 </ul>
