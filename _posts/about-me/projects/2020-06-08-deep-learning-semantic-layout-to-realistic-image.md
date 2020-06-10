@@ -7,8 +7,8 @@ header:
     title: Semantic layout to photorealistic image
     description: Semantic Layout of a street in Stuttgart, Germany 
 image:
-    thumb:  posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.png
-    homepage: posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.png
+    thumb:  posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.PNG
+    homepage: posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.PNG
 categories:
     - about-me
     - projects
@@ -28,7 +28,7 @@ The objective of this project was that given a semantic layout of a scene, we wa
 
 ## Example
 
-![Input-Output Example]({{site.urlimg}}posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.png)
+![Input-Output Example]({{site.urlimg}}posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.PNG)
 
 ## TECHNOLOGIES USED
 
