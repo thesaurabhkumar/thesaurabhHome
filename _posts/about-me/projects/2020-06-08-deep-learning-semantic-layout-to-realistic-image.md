@@ -28,7 +28,7 @@ The objective of this project was that given a semantic layout of a scene, we wa
 
 ## Example
 
-![Input-Output Example]({{site.url}}/images/posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.png)
+![Input-Output Example]({{site.urlimg}}posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.png)
 
 ## TECHNOLOGIES USED
 
@@ -40,11 +40,11 @@ Google Colab, Google Cloud Platform, Amazon Web Services, Cityscapes dataset & N
 
 ## PROJECT PRESENTATION
 
-Click to view [PROJECT PRESENTATION]({{site.url}}/images/posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/image-synthesis-pres.pdf){:target="_blank"}
+Click to view [PROJECT PRESENTATION]({{site.urlimg}}posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/image-synthesis-pres.pdf){:target="_blank"}
 
 ## PROJECT REPORT
 
-Click to view [PROJECT REPORT]({{site.url}}/images/posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/image-synthesis.pdf){:target="_blank"}
+Click to view [PROJECT REPORT]({{site.urlimg}}posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/image-synthesis.pdf){:target="_blank"}
 
 
 

@@ -1,6 +1,7 @@
 ---
 permalink: /search/
 layout: page
+sidebar: right
 title: "Search"
 sitemap: false
 ---
