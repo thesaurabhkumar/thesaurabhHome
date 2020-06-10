@@ -5,7 +5,6 @@ title: "I'm Yours (Jason Mraz)"
 teaser: "This is the first song I played for my fiancee which is why this is close to my heart. This can be played easily using very basic guitar chords. Enjoy!"
 header:
     image_fullwidth: "posts/lifestyle/music/chord-guitar-header.jpg"
-    title: I'm Yours (Jason Mraz)
 image:
     thumb:  posts/lifestyle/music/chord-guitar-im-yours-thumbnail.jpeg
     homepage: posts/lifestyle/music/chord-guitar-im-yours-thumbnail.jpeg

@@ -4,7 +4,6 @@ subheadline: "My Projects"
 title: "Semantic layout to photorealistic image"
 header:
     image_fullwidth: "posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-header.png"
-    title: Semantic layout to photorealistic image
     description: Semantic Layout of a street in Stuttgart, Germany 
 image:
     thumb:  posts/about-me/projects/deep-learning-semantic-layout-to-realistic-image/semantic-layout-to-realistic-image-thumbnail.PNG

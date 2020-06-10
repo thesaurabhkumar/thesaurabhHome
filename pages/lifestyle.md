@@ -9,7 +9,6 @@ breadcrumb: true
 header:
    image_fullwidth: "header_unsplash_leaf.jpg"
 permalink: "/lifestyle/"
-breadcrumb: true
 ---
 <ul>
     {% for post in site.categories.lifestyle %}

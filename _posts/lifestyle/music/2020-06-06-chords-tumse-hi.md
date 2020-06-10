@@ -5,7 +5,6 @@ title: "Tumse Hi (Jab We Met)"
 teaser: "This is a popular hindi language bollywood song. This can be played easily using very basic guitar chords. Enjoy!"
 header:
     image_fullwidth: "posts/lifestyle/music/chord-guitar-header.jpg"
-    title: Tumse Hi (Jab We Met)
 image:
     thumb:  posts/lifestyle/music/chord-guitar-tumse-hi-thumbnail.jpeg
     homepage: posts/lifestyle/music/chord-guitar-tumse-hi-thumbnail.jpeg
