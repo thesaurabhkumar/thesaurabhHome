@@ -5,6 +5,9 @@
 - title: About Me
   url: "/about-me/"
   side: left
+  dropdown:
+  - title: "Projects"
+    url: "/about-me/projects"
 
 - title: "Technical"
   url: "/technical/"
