@@ -381,6 +381,16 @@ mark {
 .iconfont-48    { font-size: 48px; }
 
 
+@font-face {
+    font-family: 'Crunchy';
+    src: url('../fonts/Crunchy.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Milton_One_Bold';
+    src: url('../fonts/Milton_One_Bold.otf')  format('opentype');
+}
+
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,

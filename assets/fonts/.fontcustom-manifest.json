@@ -7,7 +7,9 @@
     "./iconfont.ttf",
     "./iconfont.svg",
     "./iconfont.woff",
-    "./iconfont.eot"
+    "./iconfont.eot",
+    "./Crunchy.ttf",
+    "./Milton_One_Bold.otf"
   ],
   "glyphs": {
     "archive": {
