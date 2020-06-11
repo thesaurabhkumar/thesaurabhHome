@@ -8,7 +8,7 @@ comments: true
 breadcrumb: true
 header:
    image_fullwidth: "header_unsplash_4.jpg"
-permalink: "/about-me/projects"
+permalink: "/about-me/projects/"
 ---
 <ul>
     {% for post in site.categories.projects %}
