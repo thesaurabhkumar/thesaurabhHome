@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "header_unsplash_leaf.jpg"
+   image_fullwidth: "gallery-example-2.jpg"
 permalink: "/lifestyle/"
 ---
 <ul>

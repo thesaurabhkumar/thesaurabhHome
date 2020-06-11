@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 permalink: "/technical/"
 ---
 <ul>
