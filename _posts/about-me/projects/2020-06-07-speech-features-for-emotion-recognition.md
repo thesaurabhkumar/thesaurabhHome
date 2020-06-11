@@ -20,6 +20,18 @@ show_meta: false
 breadcrumb: true
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## DESCRIPTION
 
 Extracted and evaluated all the features for speech emotion recognition task. Used utterances that belong to the following 4 categories, happy, neutral, sad and angry for recognizing emotions. The performance of each feature representation was evaluated using Leave-One-Subject-Out cross validation approach with weighted and unweighted recall, precision and F1-score as metrics.

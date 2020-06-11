@@ -21,6 +21,18 @@ show_meta: false
 breadcrumb: true
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## DESCRIPTION
 
 The objective of this project was that given a semantic layout of a scene, we want to generate a photorealistic image of a scene that conforms to the input layout. The generated image was realistic in appearance compared to the real-world scenes.

@@ -47,7 +47,7 @@ Through social service, I want to create an impact on the society through educat
 ### Master of Computer Science
 - __Institute:__ Texas A&M University, College Station
 - __Date Attended:__ August, 2017 to May, 2019
-- __Website:__ [www.tamu.edu](www.tamu.edu)
+- __Website:__ [www.tamu.edu](www.tamu.edu){:target="_blank"}
 - __Courses:__ Learnt and researched in latest technologies being used in the industry. Worked in the fields of *Software Engineering, Parallel Programming, Distributed & Cloud Computing, Machine Learning, Deep Learning, Artificial Intelligence, Human Behavior Analytics, Information Storage & Retrieval and Blockchain technologies*
 - __Activities & Societies:__ Member of the Computer Science & Engineering Graduate Student Association, Member of Graduate & Professional Student Council
 - __University Description:__ Opened in 1876, Texas A&M University was ranked 29th in America's Best Value Colleges in 2018 by Forbes. It is a research hub with significant funding from NASA, NSF & NIH. Texas A&M ranks 13th among U.S. research universities in exchange agreements with institutions abroad and student participation in study abroad programs as per Wikipedia
@@ -55,7 +55,7 @@ Through social service, I want to create an impact on the society through educat
 ### Bachelor of Technology, Computer Science & Engineering
 - __Institute:__ Indian Institute of Technology (BHU)
 - __Date Attended:__ July, 2008 to May, 2012
-- __Website:__ [www.iitbhu.ac.in](www.iitbhu.ac.in)
+- __Website:__ [www.iitbhu.ac.in](www.iitbhu.ac.in){:target="_blank"}
 -  __Courses:__ Algorithms, Data Structures, Artificial Intelligence, C/C++ Programming, Computer Architecture & Organization, Computer Graphics, Networking, Databases, Graph Theory, Operating Systems, Parallel & Distributed Computing, and Software Engineering
 -  __Activities & Societies:__ Member of Computer Engineering Society, ACM-IITBHU, Technical Activity Center, Codefest, Robotics Club and an active volunteer of Kashi Utkarsh 
 - __University Description:__ Founded in 1919, Indian Institute of Technology (BHU) Varanasi was ranked 9th in Engineering Colleges in India in 2017 by The Week.The admission for undergraduate courses to the institute is through Indian Institute of Technology Joint Entrance Examination (IIT-JEE) which is ranked 5th in Toughest Entrance Exams in the World by RankRED.
@@ -90,7 +90,7 @@ Through social service, I want to create an impact on the society through educat
 ### Full Time Jobs
 #### Compiler Developer @ Ericsson Inc.
 - __Date:__ July,2019 - Present
-- __Company Website:__ [www.ericsson.com](www.ericsson.com)
+- __Company Website:__ [www.ericsson.com](http://www.ericsson.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Working on fixing bugs/issues reported in the Clang-LLVM compiler related to the Static Analyser
   + Built a tool to automatically format DSP-C source code according to Ericsson coding guidelines using clang-format and other 3rd party open source libraries
@@ -98,7 +98,7 @@ Through social service, I want to create an impact on the society through educat
 
 #### Lead Member of Technical Staff (R&D) @ Mentor, A Siemens Business
 - __Date:__ August,2016 - April,2017
-- __Company Website:__ [www.mentor.com](www.mentor.com)
+- __Company Website:__ [www.mentor.com](http://www.mentor.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Lead developer for software that helps customers automatically perform verification tasks with minimal configuration. Worked with users to gather requirement, designed, developed & tested a fault tolerant software which resulted in 50% faster turnaround time
   + Designed and implemented power specification language support in compiler of FPGA prototyping using C++; Performed code optimization via hanging logic removal, dead logic elimination & complex algorithms reducing memory usage by 30%
@@ -107,7 +107,7 @@ Through social service, I want to create an impact on the society through educat
 
 #### Senior Member of Technical Staff (R&D) @ Mentor, A Siemens Business
 - __Date:__ August,2013 - July,2016
-- __Company Website:__ [www.mentor.com](www.mentor.com)
+- __Company Website:__ [www.mentor.com](http://www.mentor.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Handled design, development, test and debug of large system software. Analyzed code for efficiency, stability, portability, scalability & integration with various platforms. Provided post production customer support to quickly resolve issues
   + Developed a compiler driver software using C++ to aid in verification of hardware devices for FPGA prototyping system. Designed the driver software interface, software requirement specifications & architecture documents
@@ -117,7 +117,7 @@ Through social service, I want to create an impact on the society through educat
 
 #### Member of Technical Staff (R&D) @ NetApp Inc.
 - __Date:__ July,2012 - July,2013
-- __Company Website:__ [www.netapp.com](www.netapp.com)
+- __Company Website:__ [www.netapp.com](http://www.netapp.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Contributed towards the backend development of SANtricity using C++, an enterprise storage array management software. Implemented storage array discovery and support bundle collection features
   + Engineered command line programs to implement volume management, firmware inventory and array discovery features using C++ which were distributed to OEM partners as part of the SDK package
@@ -125,20 +125,20 @@ Through social service, I want to create an impact on the society through educat
 ### Internships
 #### Software Engineering Intern @ NetApp Inc.
 - __Date:__ May,2011 - July,2011
-- __Company Website:__ [www.netapp.com](www.netapp.com)
+- __Company Website:__ [www.netapp.com](http://www.netapp.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Created a tool using Python to validate the integrity of fingerprint database used to identify potential metadata corruption that could lead to data loss during deduplication. Quickly learned the required technologies, understood requirements, designed, coded, tested and successfully delivered the project which garnered me a full time offer from NetApp
 
 #### Software Engineering Intern @ Infogile Technologies
 - __Date:__ May,2010 - July,2010
-- __Company Website:__ [www.infogile.com](www.infogile.com)
+- __Former Company Website:__ [www.infogile.com](http://www.infogile.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Built and tested J2ME mobile application by implementing functionalities for buffering and streaming media, XML parser, live feeds and Facebook integration using KXML and Facebook mobile API
 
 ### Part Time Jobs
 #### Graduate Assistant @ Texas A&M University
 - __Date:__ August,2017 - May,2018
-- __University Website:__ [www.tamu.edu](www.tamu.edu)
+- __University Website:__ [www.tamu.edu](http://www.tamu.edu){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
   + Developed an auto grading software to automate the grading of C++ programming assignments via static parsing of code as well as dynamic execution according to scoring rubrics for Department of Computer Science, Texas A&M University
 
@@ -146,4 +146,3 @@ Through social service, I want to create an impact on the society through educat
 <a class="radius button large" href="{{ site.url }}{{ site.baseurl }}/blog/">Check out my recent posts ›</a>
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/

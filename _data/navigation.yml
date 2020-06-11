@@ -7,7 +7,9 @@
   side: left
   dropdown:
   - title: "Projects"
-    url: "/about-me/projects"
+    url: "/about-me/projects/"
+  - title: "Memberships"
+    url: "/about-me/memberships/"
 
 - title: "Technical"
   url: "/technical/"
