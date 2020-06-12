@@ -1,17 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "Technical Posts"
+title: "LLVM"
 subheadline: "Discussion Topics"
 sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "headers/unsplash_brooklyn-bridge_header.jpg"
-permalink: "/technical/"
+   image_fullwidth: "pages/technical/llvm/llvm-header.png"
+permalink: "/technical/llvm/"
 ---
 <ul>
-    {% for post in site.tags.technical %}
+    {% for post in site.tags.llvm %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>

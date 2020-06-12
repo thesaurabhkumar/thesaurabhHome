@@ -1,17 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "My Lifestyle"
+title: "Fun Ideas"
 subheadline: "Blog Posts"
 sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "headers/gallery-example-2.jpg"
-permalink: "/lifestyle/"
+   image_fullwidth: "posts/lifestyle/fun-ideas/fun-ideas-header.jpg"
+permalink: "/lifestyle/fun-ideas/"
 ---
 <ul>
-    {% for post in site.categories.lifestyle %}
+    {% for post in site.categories.fun-ideas %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>

@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "header_unsplash_4.jpg"
+   image_fullwidth: "headers/header_unsplash_4.jpg"
 permalink: "/about-me/projects/"
 ---
 <ul>

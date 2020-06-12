@@ -1,17 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "My Lifestyle"
+title: "My Fitness"
 subheadline: "Blog Posts"
 sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "headers/gallery-example-2.jpg"
-permalink: "/lifestyle/"
+   image_fullwidth: "posts/lifestyle/fitness/fitness-header.jpg"
+permalink: "/lifestyle/fitness/"
 ---
 <ul>
-    {% for post in site.categories.lifestyle %}
+    {% for post in site.categories.fitness %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>

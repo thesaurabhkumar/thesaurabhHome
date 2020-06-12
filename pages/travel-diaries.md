@@ -7,8 +7,8 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "header-bus.jpg"
-permalink: "/travel/"
+   image_fullwidth: "headers/header-bus.jpg"
+permalink: "/travel-diaries/"
 ---
 <ul>
     {% for post in site.categories.travel %}

@@ -16,26 +16,28 @@
   side: left
   dropdown:
   - title: "C/C++"
-    url: "/technical/c-programming"
+    url: "/technical/c-programming/"
   - title: "Algorithms"
-    url: "/technical/algorithms"
+    url: "/technical/algorithms/"
   - title: "Data Structures"
-    url: "/technical/data-structures"
+    url: "/technical/data-structures/"
   - title: "System Design"
     url: "/technical/system-design/"
+  - title: "LLVM"
+    url: "/technical/llvm/"
 
 - title: "Travel Diaries"
-  url: "/travel/"
+  url: "/travel-diaries/"
   side: left
   dropdown:
   - title: "Travel Guide"
-    url: "/travel/travel-guide/"
+    url: "/travel-diaries/travel-guide/"
   - title: "United States"
-    url: "/travel/united-states/"
+    url: "/travel-diaries/usa/"
   - title: "India"
-    url: "/travel/india/"
+    url: "/travel-diaries/india/"
   - title: "Nepal"
-    url: "/travel/nepal"
+    url: "/travel-diaries/nepal/"
 
 - title: Lifestyle
   url: "/lifestyle/"
@@ -48,7 +50,7 @@
   - title: "Music"
     url: "/lifestyle/music/"
   - title: "Fun Ideas"
-    url: "/lifestyle/fun-ideas"
+    url: "/lifestyle/fun-ideas/"
 
 - title: Blog
   url: "/blog/"

@@ -6,7 +6,7 @@ subheadline: "Contact Me"
 sidebar: right
 breadcrumb: true
 header:
-   image_fullwidth: "header_unsplash_leaf.jpg"
+   image_fullwidth: "headers/header_unsplash_leaf.jpg"
 permalink: "/contact/"
 ---
 
