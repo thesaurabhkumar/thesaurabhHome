@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "pages/travel-diaries/travel-guide/travel-guide-header.png"
+   image_fullwidth: "pages/travel-diaries/travel-guide/travel-guide-header.jpg"
 permalink: "/travel-diaries/travel-guide/"
 ---
 <ul>

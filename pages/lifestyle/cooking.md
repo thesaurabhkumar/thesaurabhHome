@@ -2,12 +2,12 @@
 layout: page
 show_meta: false
 title: "My Cooking"
-subheadline: "Blog Posts"
+subheadline: "My Lifestyle"
 sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "posts/lifestyle/cooking/cooking-header.jpg"
+   image_fullwidth: "pages/lifestyle/cooking/cooking-header.jpg"
 permalink: "/lifestyle/cooking/"
 ---
 <ul>
