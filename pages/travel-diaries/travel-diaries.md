@@ -11,7 +11,7 @@ header:
 permalink: "/travel-diaries/"
 ---
 <ul>
-    {% for post in site.categories.travel %}
+    {% for post in site.categories.travel-diaries %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>
