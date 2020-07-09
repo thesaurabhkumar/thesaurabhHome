@@ -11,6 +11,7 @@ image:
 categories:
     - about-me
     - projects
+    - technical
 tags:
     - projects
     - technical

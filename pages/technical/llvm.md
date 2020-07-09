@@ -11,7 +11,7 @@ header:
 permalink: "/technical/llvm/"
 ---
 <ul>
-    {% for post in site.tags.llvm %}
+    {% for post in site.categories.llvm %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>

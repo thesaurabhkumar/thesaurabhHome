@@ -11,7 +11,7 @@ header:
 permalink: "/technical/"
 ---
 <ul>
-    {% for post in site.tags.technical %}
+    {% for post in site.categories.technical %}
         {% include _page_entries.html %}
     {% endfor %}
 </ul>
