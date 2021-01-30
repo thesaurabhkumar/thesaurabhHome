@@ -34,6 +34,8 @@
     url: "/travel-diaries/travel-guide/"
   - title: "United States"
     url: "/travel-diaries/usa/"
+  - title: "Texas"
+    url: "/travel-diaries/usa/texas/"
   - title: "India"
     url: "/travel-diaries/india/"
   - title: "Nepal"
