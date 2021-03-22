@@ -25,6 +25,8 @@
     url: "/technical/system-design/"
   - title: "LLVM"
     url: "/technical/llvm/"
+  - title: "Bazel"
+    url: "/technical/bazel/"
 
 - title: "Travel Diaries"
   url: "/travel-diaries/"
