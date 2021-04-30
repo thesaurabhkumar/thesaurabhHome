@@ -28,6 +28,19 @@
   - title: "Bazel"
     url: "/technical/bazel/"
 
+- title: "Photography"
+  url: "/photography/"
+  side: left
+  dropdown:
+  - title: "United States"
+    url: "/photography/usa/"
+  - title: "Texas"
+    url: "/photography/usa/texas/"
+  - title: "India"
+    url: "/photography/india/"
+  - title: "Nepal"
+    url: "/photography/nepal/"
+
 - title: "Travel Diaries"
   url: "/travel-diaries/"
   side: left
