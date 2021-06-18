@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "Eye Of The Sun"
 teaser: "South Padre Island, Texas"

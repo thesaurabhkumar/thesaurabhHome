@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "An Evening To Unfold"
 teaser: "South Padre Island, Texas"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "Good Bye For The Night"
 teaser: "South Padre Island, Texas"

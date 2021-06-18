@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "Beyond Obstacles"
 teaser: "South Padre Island, Texas"

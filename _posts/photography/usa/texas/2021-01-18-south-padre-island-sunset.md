@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "A Beautiful Sunset"
 teaser: "South Padre Island, Texas"

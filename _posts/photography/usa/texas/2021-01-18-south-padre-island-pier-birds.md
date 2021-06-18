@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Photography"
 title: "Catch The Twilight"
 teaser: "South Padre Island, Texas"
