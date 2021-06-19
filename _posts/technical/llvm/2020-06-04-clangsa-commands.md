@@ -86,14 +86,4 @@ exploded-graph-rewriter.py graph.dot
 ~~~
 
 
-
-
-
-
-
-
-
-
-
-{% include list-posts entries='3' offset='1' tag='clang' %}
 {% include next-previous-post-in-category %}

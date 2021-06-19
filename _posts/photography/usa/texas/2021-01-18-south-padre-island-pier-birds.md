@@ -21,3 +21,5 @@ breadcrumb: true
 ---
 
 ![Sunset]({{site.urlimg}}posts\photography\usa\texas\south-padre-island-pier-birds.jpeg)
+
+{% include next-previous-post-in-category %}

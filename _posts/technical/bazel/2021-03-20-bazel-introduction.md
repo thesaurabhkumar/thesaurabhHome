@@ -141,3 +141,5 @@ breadcrumb: true
   - **Extension files (Optional):**  Files ending in .bzl
     - Contains rules, functions or constants
 Symbols starting with _ are not exported and cannot be loaded from another file
+
+{% include next-previous-post-in-category %}

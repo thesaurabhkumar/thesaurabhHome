@@ -21,3 +21,5 @@ breadcrumb: true
 ---
 
 ![Sunset]({{site.urlimg}}posts\photography\usa\texas\south-padre-island-sunset.jpeg)
+
+{% include next-previous-post-in-category %}

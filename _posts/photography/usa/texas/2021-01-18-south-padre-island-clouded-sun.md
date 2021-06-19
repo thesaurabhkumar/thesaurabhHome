@@ -21,3 +21,5 @@ breadcrumb: true
 ---
 
 ![Sunset]({{site.urlimg}}posts\photography\usa\texas\south-padre-island-clouded-sun.jpeg)
+
+{% include next-previous-post-in-category %}

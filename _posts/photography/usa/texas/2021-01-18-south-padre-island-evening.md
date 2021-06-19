@@ -21,3 +21,5 @@ breadcrumb: true
 ---
 
 ![Evening]({{site.urlimg}}posts\photography\usa\texas\south-padre-island-evening.jpeg)
+
+{% include next-previous-post-in-category %}
