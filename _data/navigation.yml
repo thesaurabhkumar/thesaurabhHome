@@ -6,6 +6,8 @@
   url: "/about-me/"
   side: left
   dropdown:
+  - title: "Professional"
+    url: "/about-me/professional/"
   - title: "Projects"
     url: "/about-me/projects/"
   - title: "Memberships"
