@@ -8,6 +8,14 @@ header:
    image_fullwidth: "headers/header_unsplash_leaf.jpg"
 permalink: "/about-me/memberships/"
 ---
+<style>
+        h2{
+            color:royalblue;
+        }
+        h3{
+            color:teal;
+        }
+</style>
 
 ## PanIIT USA
 - __Organization Type:__ IIT (Indian Institute of Technology) Alumni Network in USA

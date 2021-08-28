@@ -21,6 +21,14 @@ permalink: "/about-me/professional/"
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
+<br>
+<div class="border-dotted radius b30">
+		<img src="{{ site.urlimg }}profile_pic.jpg" alt="Saurabh Kumar">
+		<p class="text-left">
+			Connect with me on
+			<a href="https://www.linkedin.com/in/isaurabhkumar/">LinkedIn!</a>
+		</p>
+</div>
 <div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
@@ -80,7 +88,7 @@ Currently working on the development of static analysis tools using clang-tidy &
   + Conceived & implemented the plan for development & extension of UBSan to support full runtime dynamic analysis in memory constrained embedded environments within the 5G domain
   + Accomplished feature extensions & collaborated with several teams for integration of CodeChecker to facilitate static and dynamic analysis of entire C source code at Ericsson
   + Investigated & fixed issues reported in the clang static analyzer related to symbolic execution of C source code
-  + Designed, produced & deployed a tool to automatically format C source code according to Ericsson coding guidelines which resulted in significant reduction of customer issues due to incorrect programming practices
+  + Proposed, produced & deployed a tool to automatically format C source code according to Ericsson coding guidelines which resulted in significant reduction of customer issues due to incorrect programming practices
   
 
 #### Lead Member of Technical Staff (R&D) @ Mentor, A Siemens Business

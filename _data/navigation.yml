@@ -12,6 +12,8 @@
     url: "/about-me/projects/"
   - title: "Memberships"
     url: "/about-me/memberships/"
+  - title: "Extracurricular"
+    url: "/about-me/extracurricular/"
 
 - title: "Technical"
   url: "/technical/"
