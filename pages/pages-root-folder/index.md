@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: frontpage-fullscreen
 header:
   image_fullwidth: pages/home/background.jpg
   title: Saurabh Kumar

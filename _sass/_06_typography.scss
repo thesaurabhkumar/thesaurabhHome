@@ -167,7 +167,21 @@ figcaption a:hover,
     text-align: right;
 }
 
+.masthead-title {
+    color: yellow;
+}
 
+.circular--square {
+    position: relative;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    border:6px solid white;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
 
 /* Tables
 ------------------------------------------------------------------- */

@@ -14,7 +14,7 @@ Twitter: {{ author.twitter }}{% endif %}
 
 /* THANKS */
 
-Name: Moritz »mo.« Sauer
+Name: Saurabh Kumar
 Role: Blog Creator
 Site: http://www.thesaurabh.com/
 Twitter: @The_Saurabh_K
