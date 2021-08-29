@@ -29,10 +29,10 @@ permalink: "/about-me/"
 		</p>
 </div>
 <div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
+  **Table of Contents**
+  {: #toc }
+  *  TOC
+  {:toc}
 </div>
 </div><!-- /.medium-4.columns -->
 

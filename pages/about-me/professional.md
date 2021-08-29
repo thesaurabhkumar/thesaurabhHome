@@ -110,12 +110,12 @@ Currently working on the development of static analysis tools using clang-tidy &
   + Supported VHDL-2008, a hardware design programming language using C & C++ in the compiler of Questa Visualizer debugger facilitating advanced verification environment and reducing overall verification time by 10%
   + Implemented encryption mechanism using C & C++ in VHDL compiler as per IEEE-1735 standards for IP protection
 
-#### Member of Technical Staff (R&D) @ NetApp Inc.
+#### Member of Technical Staff @ NetApp Inc.
 - __Date:__ July, 2012 - July, 2013
 - __Company Website:__ [www.netapp.com](http://www.netapp.com){:target="_blank"}
 - __ROLES & RESPONSIBILITIES:__
-  + Contributed towards the backend development of SANtricity using C++, an enterprise storage array management software. Implemented storage array discovery and support bundle collection features
-  + Engineered command line programs to implement volume management, firmware inventory and array discovery features using C++ which were distributed to OEM partners as part of the SDK package
+  + Contributed towards the backend of SANtricity using C++, an enterprise storage array management software. Worked on storage array discovery and support bundle collection features
+  + Engineered command line programs for volume management, firmware inventory and array discovery features using C++ as part of the SDK package
 
 ### Internships
 #### Software Engineering Intern @ NetApp Inc.
