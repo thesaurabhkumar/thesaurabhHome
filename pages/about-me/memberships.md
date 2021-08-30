@@ -5,7 +5,7 @@ subheadline: "About Me"
 sidebar: left
 breadcrumb: true
 header:
-   image_fullwidth: "headers/header_unsplash_leaf.jpg"
+   image_fullwidth: "pages/about-me/memberships/header.jpg"
 permalink: "/about-me/memberships/"
 ---
 <style>
