@@ -121,5 +121,12 @@ clang -o fullIR main.c -fsanitize=undefined -O1 -S -emit-llvm
 #### IR (Full Runtime)
 ![Full Runtime IR]({{site.urlimg}}posts\technical\llvm\ubsanIntro\fullIR.PNG)
 
+## Comparing the IR's
+### Normal IR vs UBSan Minimal Runtime IR
+![Normal IR vs Minimal Runtime IR]({{site.urlimg}}posts\technical\llvm\ubsanIntro\IRminIRDiff.PNG)
+
+### UBSan Minimal Runtime IR vs Full Runtime IR
+![Minimal Runtime IR vs Full Runtime IR]({{site.urlimg}}posts\technical\llvm\ubsanIntro\minIRFullIRDiff.PNG)
+
 
 {% include next-previous-post-in-category %}
