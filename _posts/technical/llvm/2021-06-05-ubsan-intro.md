@@ -41,15 +41,7 @@ export PATH=<path_to_llvm_repo_dir>/llvm-project/build/bin/:$PATH       �
 
 ## Testcase
 The following testcase assigns the address 0 to an integer pointer during declaration. Then it dereferences the pointer to assign the value at that location to another integer variable. This would result in a segmentation fault.
-<kbd>
-<br>#include< stdio.h> <br>
-int main() {<br>
-    int *p = 0;<br>
-    int x = *p;<br>
-    printf("%d\n", x);<br>
-    return 0;<br>
-}<br>
-</kbd>
+![testcase]({{site.urlimg}}posts\technical\llvm\ubsanIntro\testcase.PNG)
 
 ## UBSan Minimal Runtime
 ### Compilation with Instrumentation
