@@ -45,33 +45,33 @@
   - title: "Nepal"
     url: "/photography/nepal/"
 
-- title: "Travel Diaries"
-  url: "/travel-diaries/"
-  side: left
-  dropdown:
-  - title: "Travel Guide"
-    url: "/travel-diaries/travel-guide/"
-  - title: "United States"
-    url: "/travel-diaries/usa/"
-  - title: "Texas"
-    url: "/travel-diaries/usa/texas/"
-  - title: "India"
-    url: "/travel-diaries/india/"
-  - title: "Nepal"
-    url: "/travel-diaries/nepal/"
+# - title: "Travel Diaries"
+#   url: "/travel-diaries/"
+#   side: left
+#   dropdown:
+#   - title: "Travel Guide"
+#     url: "/travel-diaries/travel-guide/"
+#   - title: "United States"
+#     url: "/travel-diaries/usa/"
+#   - title: "Texas"
+#     url: "/travel-diaries/usa/texas/"
+#   - title: "India"
+#     url: "/travel-diaries/india/"
+#   - title: "Nepal"
+#     url: "/travel-diaries/nepal/"
 
-- title: Lifestyle
-  url: "/lifestyle/"
-  side: left
-  dropdown:
-  - title: "Cooking"
-    url: "/lifestyle/cooking/"
-  - title: "Fitness"
-    url: "/lifestyle/fitness/"
-  - title: "Music"
-    url: "/lifestyle/music/"
-  - title: "Fun Ideas"
-    url: "/lifestyle/fun-ideas/"
+# - title: Lifestyle
+#   url: "/lifestyle/"
+#   side: left
+#   dropdown:
+#   - title: "Cooking"
+#     url: "/lifestyle/cooking/"
+#   - title: "Fitness"
+#     url: "/lifestyle/fitness/"
+#   - title: "Music"
+#     url: "/lifestyle/music/"
+#   - title: "Fun Ideas"
+#     url: "/lifestyle/fun-ideas/"
 
 - title: Blog
   url: "/blog/"
