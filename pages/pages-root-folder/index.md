@@ -24,7 +24,6 @@ header:
 #
 callforaction:
   url: /blog/
-  text: Check out my recent posts ›
   style: success
 permalink: /index.html
 #

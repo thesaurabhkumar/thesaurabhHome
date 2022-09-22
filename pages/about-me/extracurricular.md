@@ -21,10 +21,6 @@ permalink: "/about-me/extracurricular/"
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="border-dotted radius b30">
 		<img src="{{ site.urlimg }}profile_pic.jpg" alt="Saurabh Kumar">
-		<p class="text-left">
-			Connect with me on
-			<a href="https://www.linkedin.com/in/isaurabhkumar/">LinkedIn!</a>
-		</p>
 </div>
 <div class="panel radius" markdown="1">
   **Table of Contents**
@@ -60,8 +56,5 @@ I really enjoy attending technical conferences & seminars. Its the perfect way t
 </div>
 </div>
 
-## Travel
-I like to travel and explore new places with my partner during our vacations. We most recently traveled to Colorado and it was beautful. I love to hike and try local cuisines during my trips. One of my hobbies is photography and I take lots of pictures everywhere.
-### Dream Lake @ Rocky Mountain National Park, CO
-![dream lake]({{site.urlimg}}pages\about-me\extracurricular\dream-lake.jpeg)
+
 

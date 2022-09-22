@@ -24,10 +24,6 @@ permalink: "/about-me/professional/"
 <br>
 <div class="border-dotted radius b30">
 		<img src="{{ site.urlimg }}profile_pic.jpg" alt="Saurabh Kumar">
-		<p class="text-left">
-			Connect with me on
-			<a href="https://www.linkedin.com/in/isaurabhkumar/">LinkedIn!</a>
-		</p>
 </div>
 <div class="panel radius" markdown="1">
 **Table of Contents**
@@ -137,7 +133,5 @@ Currently working on the development of static analysis tools using clang-tidy &
 - __ROLES & RESPONSIBILITIES:__
   + Developed an auto grading software to automate the grading of C++ programming assignments via static parsing of code as well as dynamic execution according to scoring rubrics for Department of Computer Science, Texas A&M University
 
-
-<a class="radius button large" href="{{ site.url }}{{ site.baseurl }}/blog/">Check out my recent posts ›</a>
 
 
