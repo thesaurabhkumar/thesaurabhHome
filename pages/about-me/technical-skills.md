@@ -21,9 +21,9 @@ permalink: "/about-me/technical-skills/"
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="border-dotted radius b30">
+<!-- <div class="border-dotted radius b30">
 		<img src="{{ site.urlimg }}profile_pic.jpg" alt="Saurabh Kumar">
-</div>
+</div> -->
 <div class="panel radius" markdown="1">
   **Table of Contents**
   {: #toc }

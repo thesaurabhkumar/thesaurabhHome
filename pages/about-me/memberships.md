@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page-fullwidth
+show_meta: false
 title: "Memberships & Affliations"
 subheadline: "About Me"
 sidebar: left
@@ -17,10 +18,23 @@ permalink: "/about-me/memberships/"
         }
 </style>
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="border-dotted radius b30">
+		<img src="{{ site.urlimg }}/pages/about-me/memberships/iit-alumni.png" alt="IIT Global Alumni Network">
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## PanIIT USA
 - __Organization Type:__ IIT (Indian Institute of Technology) Alumni Network in USA
 - __Website:__ [PanIIT USA](http://www.iit.org/page/about-paniit-usa){:target="_blank"}
 - __Description:__ As an IIT graduate with a Bachelor's degree in Computer Science, an active member of the IIT alumni group in USA
+
+</div>
+</div>
+
 
 ## Aggienetwork - Texas A&M University
 - __Organization Type:__ Association of Former Students at Texas A&M University
